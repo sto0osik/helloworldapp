@@ -26,7 +26,7 @@ app.get('/', (req, res) => {
     </head>
     <body>
       <div class="container">
-        <h1>Siemanko ${regionName}!</h1>
+        <h1>Siemanko po PR ${regionName}!</h1>
       </div>
     </body>
     </html>
